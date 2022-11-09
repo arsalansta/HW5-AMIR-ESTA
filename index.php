@@ -41,7 +41,7 @@
     <script>
      function thisisjava()
         {
-         document.body.innerHTML="this id JAVA CONTANT";
+        println="this id JAVA CONTANT";
         }
     </script>
     
