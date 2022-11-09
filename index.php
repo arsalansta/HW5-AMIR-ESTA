@@ -14,24 +14,31 @@
     
 <form>
   
-  first number: <input typpe="text1" name ="enter first Number">
-  second number: <input typpe="text2" name ="enter second Number">
-  third number: <input typpe="text3" name ="enter third Number">
+  first number: <input typpe="number1" name ="enter first Number">
+  second number: <input typpe="number2" name ="enter second Number">
+  third number: <input typpe="number3" name ="enter third Number">
  <input type="submit" name ="Submit">
   
   </form>
    
     <script>
-  public static void print (stirng text){system.out.println(text);}
+  public static void print (stirng text){
+    system.out.println(text);
+                                        }
       
         print("WELCOME TO MY HW5");
       print("This text has been written via JAVA");
+      
+      
+      function multiplyit (number1, number2) {
+  return p1 * p2;
+}
 
-    
+      multiplyit(number1.number2);
     </script>
     
   
-    
+  
     
     
     
