@@ -53,14 +53,7 @@ Click me to display Date and Time.</button>
 
         <br>
         <br>
-<form>
-  
-  first number: <input typpe="number1" name ="enter first Number">
-  second number: <input typpe="number2" name ="enter second Number">
-  third number: <input typpe="number3" name ="enter third Number">
- <input type="submit" name ="Submit">
-  
-  </form>
+
    
     
 
