@@ -18,7 +18,7 @@
          document.body.innerHTML="this id JAVA CONTANT";
         }
         
-        thisisjava();
+        
         
          function Hello() 
         {
@@ -37,8 +37,13 @@
   
   
   <body>
-   <input type = "button" onclick = "Hello();" name = "ok" value = "Click Me" />
+    thisisjava();
     
+        <br>
+    
+        <br>
+   <input type = "button" onclick = "Hello();" name = "ok" value = "Click Me" />
+        <br>
     <br>
     <button type="button"
 onclick="document.getElementById('demo').innerHTML = Date()">
@@ -46,7 +51,8 @@ Click me to display Date and Time.</button>
 
 <p id="demo"></p>
 
-    
+        <br>
+        <br>
 <form>
   
   first number: <input typpe="number1" name ="enter first Number">
