@@ -22,13 +22,7 @@
             <a class="navbar-brand" href="http://hw4-mis4013-amir.amiresta.oucreate.com/">Homework 4 HomePage</a>
 	  
 	  
-		
-		    
-		
-		
-    
-    
-      
+		<a class ="navbar-brand" href="multiply.html"> multiply</a>
   
       
       
