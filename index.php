@@ -35,13 +35,7 @@ Click me to display Date and Time.</button>
     
     
     <script>
-  public static void print (stirng text){
-    system.out.println(text);
-                                        }
-      
-        print("WELCOME TO MY HW5");
-      print("This text has been written via JAVA");
-      
+
       
       function multiplyit (number1, number2) {
   return p1 * p2;
