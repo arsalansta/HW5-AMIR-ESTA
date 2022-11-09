@@ -7,19 +7,19 @@
     <div class="collapse navbar-collapse" id="navbarNav">
       <ul class="navbar-nav">
         <li class="nav-item">
-          <a class="nav-link active" aria-current="page" href="function1.html">Home</a>
+          <a class="nav-link active" aria-current="page" href="function1.html">function1</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="function2.html">Features</a>
+          <a class="nav-link" href="function2.html">function2</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="function3.html">Pricing</a>
+          <a class="nav-link" href="function3.html">function3</a>
         </li>
 	       <li class="nav-item">
-          <a class="nav-link" href="function4.html">Pricing</a>
+          <a class="nav-link" href="function4.html">function4</a>
         </li> 
 	      <li class="nav-item">
-          <a class="nav-link" href="function5.html">Pricing</a>
+          <a class="nav-link" href="function5.html">function5</a>
         </li>
         <li class="nav-item">
           <a class="nav-link disabled">Disabled</a>
