@@ -18,6 +18,8 @@
          document.body.innerHTML="this id JAVA CONTANT";
         }
         
+        thisisjava();
+        
          function Hello() 
         {
             alert("Hello, tHIS TEXT WAS WRITTEN VIA JAVA");
