@@ -23,7 +23,7 @@
 	  
 	  
 		
-		     <a class="navbar-brand" href="multiply.html">multiply</a>
+		    
 		
 		
     
