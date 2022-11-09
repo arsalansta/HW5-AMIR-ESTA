@@ -14,11 +14,11 @@
     
 <form>
   
-  number: <input typpe="text1" name ="enter first Number">
-  number: <input typpe="text2" name ="enter secont Number">
-  number: <input typpe="text3" name ="enter third Number">
-  number: <input typpe="text4" name ="enter fourth Number">
-  number: <input typpe="text5" name ="enter fifth Number">
+  first number: <input typpe="text1" name ="enter first Number">
+  second number: <input typpe="text2" name ="enter second Number">
+  third number: <input typpe="text3" name ="enter third Number">
+  fourth number: <input typpe="text4" name ="enter fourth Number">
+  fifth number: <input typpe="text5" name ="enter fifth Number">
   
   </form>
    
