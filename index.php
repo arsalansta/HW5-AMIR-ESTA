@@ -17,7 +17,7 @@
   first number: <input typpe="text1" name ="enter first Number">
   second number: <input typpe="text2" name ="enter second Number">
   third number: <input typpe="text3" name ="enter third Number">
- <input typpe="submit" name ="Submit">
+ <input type="submit" name ="Submit">
   
   </form>
    
