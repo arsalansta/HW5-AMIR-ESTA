@@ -11,15 +11,20 @@
   </head>
   
 
+    
+  
+  
+  
+  <body>
+    
          function Hello() {
             alert("Hello, World");
          }
 
   
-  
-  
-  
-  <body>
+    
+    
+    
     
     <br>
     <button type="button"
