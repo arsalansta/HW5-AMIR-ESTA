@@ -32,7 +32,7 @@ Click me to display Date and Time.</button>
 
 
 
-      multiplyit(number1.number2);
+      multiplyit(2,4);
     
     <script>
 
@@ -44,7 +44,7 @@ Click me to display Date and Time.</button>
     
     </script>
     
-    multiplyit(number1.number2);
+    multiplyit(2,4);
   
     
     
