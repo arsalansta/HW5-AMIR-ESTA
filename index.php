@@ -17,21 +17,20 @@
   first number: <input typpe="text1" name ="enter first Number">
   second number: <input typpe="text2" name ="enter second Number">
   third number: <input typpe="text3" name ="enter third Number">
-  fourth number: <input typpe="text4" name ="enter fourth Number">
-  fifth number: <input typpe="text5" name ="enter fifth Number">
+
   
   </form>
    
     <script>
   public static void print (stirng text){system.out.println(text);}
       
-      print("WELCOME TO MY HW5");
-      print("This text has been written via JAVA");
+
 
     
     </script>
     
-    
+          print("WELCOME TO MY HW5");
+      print("This text has been written via JAVA");
     
     
     
