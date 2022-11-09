@@ -13,10 +13,11 @@
 
     
     <script>
-   
-    function ADD (p1, p2) {
-  return p1 * p2;
-}
+ public static void print (stirng text){system.out.println(text);}
+      
+      print("WELCOME TO MY HW5")
+      print("This text has been written via JAVA")
+
     
     </script>
     
