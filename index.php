@@ -32,7 +32,7 @@ Click me to display Date and Time.</button>
 
 
 
-    
+      multiplyit(number1.number2);
     
     <script>
 
@@ -41,10 +41,10 @@ Click me to display Date and Time.</button>
   return p1 * p2;
 }
 
-      multiplyit(number1.number2);
+    
     </script>
     
-  
+    multiplyit(number1.number2);
   
     
     
