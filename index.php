@@ -34,7 +34,7 @@ Click me to display Date and Time.</button>
 
       multiplyit(2,4);
     
-    <script>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             
 
       
       function multiplyit (number1, number2) {
@@ -42,8 +42,7 @@ Click me to display Date and Time.</button>
 }
 
     
-    </script>
-    
+  
     multiplyit(2,4);
   
     
