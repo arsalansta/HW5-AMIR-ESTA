@@ -37,10 +37,17 @@
   
   
   <body>
-    thisisjava();
+    
+    <script>
+     function thisisjava()
+        {
+         document.body.innerHTML="this id JAVA CONTANT";
+        }
+    </script>
+    
     
         <br>
-    
+    thisisjava();
         <br>
    <input type = "button" onclick = "Hello();" name = "ok" value = "Click Me" />
         <br>
