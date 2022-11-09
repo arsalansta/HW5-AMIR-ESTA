@@ -13,9 +13,15 @@
      <base href = "https://www.tutorialspoint.com/" />
       
       <script type = "text/JavaScript">
-         function Hello() {
-            alert("Hello, World");
-         }
+        function thisisjava()
+        {
+         document.body.innerHTML="this id JAVA CONTANT";
+        }
+        
+         function Hello() 
+        {
+            alert("Hello, tHIS TEXT WAS WRITTEN VIA JAVA");
+        }
       </script>
     
     
