@@ -13,13 +13,13 @@
  
 	<nav class="navbar navbar-expand-lg navbar-light bg-light">
 		
-  <a class="navbar-brand" href="http://hw4-mis4013-amir.amiresta.oucreate.com/">Homework 4 HomePage</a>
+  <a class="navbar-brand" href="http://hw5-mis4013-amir.amiresta.oucreate.com/">Homework 5 HomePage</a>
  
    
      
    
     
-            <a class="navbar-brand" href="instructors.php">instructors</a>
+            <a class="navbar-brand" href="http://hw4-mis4013-amir.amiresta.oucreate.com/">Homework 4 HomePage</a>
 	  
 	  
     
