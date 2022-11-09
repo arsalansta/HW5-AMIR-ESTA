@@ -22,7 +22,7 @@
         
          function Hello() 
         {
-            alert("Hello, tHIS TEXT WAS WRITTEN VIA JAVA");
+            alert("Hello, THIS TEXT WAS WRITTEN VIA JAVA");
         }
       </script>
     
@@ -38,17 +38,10 @@
   
   <body>
     
-    <script>
-     function thisisjava()
-        {
-        println="this id JAVA CONTANT";
-        }
-    </script>
+  
     
     
-        <br>
-    thisisjava();
-        <br>
+    
    <input type = "button" onclick = "Hello();" name = "ok" value = "Click Me" />
         <br>
     <br>
