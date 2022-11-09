@@ -22,15 +22,7 @@
   
   
   <body>
-    
-         function Hello() {
-            alert("Hello, World");
-         }
-
   
-    
-    
-    
     
     <br>
     <button type="button"
