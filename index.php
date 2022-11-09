@@ -11,12 +11,12 @@
   </head>
   <body>
 
-     public static void print (stirng text){system.out.println(text);}
+   
     <script>
-
+  public static void print (stirng text){system.out.println(text);}
       
-      print("WELCOME TO MY HW5")
-      print("This text has been written via JAVA")
+      print("WELCOME TO MY HW5");
+      print("This text has been written via JAVA");
 
     
     </script>
